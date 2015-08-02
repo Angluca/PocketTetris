@@ -1,2 +1,4 @@
 # PocketTetris
-a tiny tetris game.
+A tiny tetris game.
+
+![](./resources/screenshot.png)
